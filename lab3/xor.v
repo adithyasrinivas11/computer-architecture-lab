@@ -1,0 +1,8 @@
+module xoring(a,b,c);
+
+input [15:0]a,b;
+output [15:0]c;
+
+assign c[15:0]=a[15:0] ^ b[15:0];
+
+endmodule	

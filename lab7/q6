@@ -1,0 +1,17 @@
+in l1 chcahe seperate or instruction and data.
+same clock both should be done.
+or data cache dual port memory . to over come hazard and a single/dual port instruction cache
+block size in main mem= line size in cacje
+
+read and write ports are diggerent.
+
+data cache size=65k;
+instruction caache soze=16k;
+
+16 bit bus is reqiured
+word size=16bir;
+main mem=4 time cache size
+valid and dirty ,tag bit also req dor the cache;
+
+line decoder,blodk oddset decoder;
+

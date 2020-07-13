@@ -20,4 +20,4 @@ lab7: cache
 
 project: Tomasulo Algorithm, handles WAW hazard using register renaming.
 
-  credits: Venkat, Bhaavanaa, allen, farshana, Dikshanya
+  credits: Venkat, Abhinand, Bhaavanaa, Allen, farshana, Dikshanya
